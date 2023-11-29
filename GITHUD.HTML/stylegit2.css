@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(39, 35, 35);
+}
+.Gruop-login{
+    border: 1px solid red;
+    border-radius: 10px;
+    text-align: center;
+    width: 600px;
+    margin-left: 500px;
+    margin-top: 20px;
+    background-color: white;
+}
+.lOGO{
+    text-align: center;
+}
+.lOGO-input{
+    width: 312px;
+    height: 48px;
+    margin-top: 34px;
+    border-radius: 10px;
+}
+.lOGO h3{
+    margin: 19px 0 10px;
+    font-size: 20px;
+}
+.lOGO h3 a{
+    text-decoration: none;
+    color: #2F89FC;
+
+}
+.lOGO button{
+    background-color: #0E64D2;
+    border: none;
+    border-radius: 5px;
+    width: 312px;
+    height: 48px;
+    margin-top: 20px;
+    color: white;
+    transition: all 0.3s ease;
+}
+.lOGO button:hover{
+    background-color: bisque;
+    color: black;
+}
+.logo-item{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+.logo-item button{
+    width: 312px;
+    height: 48px;
+    background-color: #0E64D2;
+    margin-top: 20px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    border: none;
+    transition: all 0.3s ease;
+}
+.logo-item button:hover{
+    background-color: bisque;
+    color: black;
+}
