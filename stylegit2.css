@@ -3,9 +3,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-body{
-    background-color: rgb(39, 35, 35);
-}
 .Gruop-login{
     border: 1px solid red;
     border-radius: 10px;
