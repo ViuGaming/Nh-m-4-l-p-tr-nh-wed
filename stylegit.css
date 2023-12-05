@@ -3,20 +3,20 @@
     margin: 0;
     box-sizing: border-box;
 }
-body{
-    background-color: rgb(50, 48, 48);
-}
 .Gruop-login{
     border: 1px solid red;
+    height: 800px;
     border-radius: 10px;
     text-align: center;
     width: 600px;
-    margin-left: 500px;
+    margin-left: 450px;
     margin-top: 20px;
     background-color: white;
 }
 .lOGO{
     text-align: center;
+    height: 400px;
+    width: 100%;
 }
 .lOGO-input{
     width: 312px;
